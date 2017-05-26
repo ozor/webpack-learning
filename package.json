@@ -1,0 +1,23 @@
+{
+  "name": "webpack-learning",
+  "version": "1.0.0",
+  "description": "### Resources: * [Webpack for Everyone](https://laracasts.com/series/webpack-for-everyone) - Course on Laracasts * [Webpack 2](https://www.youtube.com/playlist?list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNawY) - Playlist on YouTube * [Webpack 2 Basics](https://www.youtube.com/playlist?list=PL55RiY5tL51rcCnrOrZixuOsZhAHHy6os) - Playlist on YouTube * [Webpack 2 - A full tutorial](https://www.youtube.com/watch?v=eWmkBNBTbMM&t=2s) - Video on YouTube * [Awesome Webpack](https://github.com/webpack-contrib/awesome-webpack) - Awesome List on GitHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozor/webpack-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozor/webpack-learning/issues"
+  },
+  "homepage": "https://github.com/ozor/webpack-learning#readme",
+  "devDependencies": {
+    "webpack": "^2.6.1"
+  }
+}
